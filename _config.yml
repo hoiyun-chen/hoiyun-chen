@@ -1,5 +1,5 @@
 # Site settings
-title: This is Chris's Peer-graded Assignment: Building a Website
+title: This is peer-graded assignment from Coursera
 description: 'I am a intelligent man' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -22,7 +22,7 @@ night_mode: "auto"
 
 logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
-theme: minima
+
 # Author settings
 author: Chris # add your name
 author-pic: Myself_Neon_grey.jpg
